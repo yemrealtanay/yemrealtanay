@@ -9,7 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yemrealtanay&hide=issues&count_private=true&show_icons=true&theme=dracula)
 
-<a href="https://github.com/furkanmeraoglu/twits%22%3E
+<a href="https://github.com/yemrealtanay/Twits"
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yemrealtanay&repo=twits&theme=dracula" />
 </a>
 
