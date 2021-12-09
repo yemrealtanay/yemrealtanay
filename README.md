@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭  Currently working on bunch of projects which will be coming in public soon!
+- 🔭  I’m currently working on [SALP](https://tr.linkedin.com/company/salp) User Panel and Backend
+- 🌱 I’m currently learning: Nuxt.js
 - 🌱  Laravel enthusiast 😄 
 - 🌱  Also interested in VueJs, InertiaJs, Tailwindcss, bootstrap, C#, .Net, Every Development Adventure!
 - 📫  [Shoot me an email if you want to reach me](mailto:y.emrealtanay@gmail.com)
@@ -12,6 +13,12 @@
 <a href="https://github.com/yemrealtanay/Twits">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yemrealtanay&repo=twits&theme=dracula" />
 </a>
+
+<a href="https://github.com/yemrealtanay/icebergEstateApi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yemrealtanay&repo=icebergEstateApi&theme=dracula" />
+</a>
+
+
 
 <!--
 **yemrealtanay/yemrealtanay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
