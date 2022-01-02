@@ -3,8 +3,10 @@
 - 🔭  I’m currently working on [SALP](https://tr.linkedin.com/company/salp) User Panel and Backend
 - 🌱 I’m currently learning: Nuxt.js
 - 🌱  Laravel enthusiast 😄 
-- 🌱  Also interested in VueJs, InertiaJs, Tailwindcss, bootstrap, C#, .Net, Every Development Adventure!
-- 📫  [Shoot me an email if you want to reach me](mailto:y.emrealtanay@gmail.com)
+
+### Languages and Tools
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yemrealtanay&layout=compact&theme=dracula)
 
