@@ -44,7 +44,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yemrealtanay&repo=icebergEstateApi&theme=dracula" />
 </a>
 
-[website]: https://yemrealtanay.xyz
+[website]: http://yemrealtanay.xyz
 [twitter]: https://twitter.com/yemrealtanay
 [youtube]: https://www.youtube.com/channel/UCWqK-QuvbGh_gZ1XH7tR5pg
 [instagram]: https://instagram.com/yemrealtanay
