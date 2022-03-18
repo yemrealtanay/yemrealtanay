@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working on [SALP](https://tr.linkedin.com/company/salp) User Panel and Backend
+- 🔭  I’m currently working on Iceberg Digital as Backend Developer
 - 🌱 I’m currently learning: Nuxt.js
 - 🌱  Laravel enthusiast 😄 
 
