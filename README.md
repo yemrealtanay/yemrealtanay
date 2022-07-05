@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭  I’m currently working at Iceberg Digital as Backend Developer
-- 🌱 I’m currently learning: Nuxt.js
+- 🌱 I’m currently learning: Go
 - 🌱  Laravel enthusiast 😄 
 
 ### Languages and Tools
