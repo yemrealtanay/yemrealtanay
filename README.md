@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭  I’m currently working on Iceberg Digital as Backend Developer
+- 🔭  I’m currently working at Iceberg Digital as Backend Developer
 - 🌱 I’m currently learning: Nuxt.js
 - 🌱  Laravel enthusiast 😄 
 
