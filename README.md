@@ -41,8 +41,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yemrealtanay&repo=twits&theme=dracula" />
 </a>
 
-<a href="https://github.com/yemrealtanay/sms_templates">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yemrealtanay&repo=icebergEstateApi&theme=dracula" />
+<a href="[https://github.com/yemrealtanay/sms_templates](https://github.com/yemrealtanay/sms_templates)">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yemrealtanay&repo=sms_templates&theme=dracula" />
 </a>
 
 [website]: http://yemrealtanay.xyz
