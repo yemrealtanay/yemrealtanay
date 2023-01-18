@@ -33,18 +33,6 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yemrealtanay&layout=compact&theme=dracula)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yemrealtanay&hide=issues&count_private=true&show_icons=true&theme=dracula)
-
-<a href="https://github.com/yemrealtanay/Twits">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yemrealtanay&repo=twits&theme=dracula" />
-</a>
-
-<a href="[https://github.com/yemrealtanay/sms_templates](https://github.com/yemrealtanay/sms_templates)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yemrealtanay&repo=sms_templates&theme=dracula" />
-</a>
-
 [website]: http://yemrealtanay.xyz
 [twitter]: https://twitter.com/yemrealtanay
 [youtube]: https://www.youtube.com/channel/UCWqK-QuvbGh_gZ1XH7tR5pg
