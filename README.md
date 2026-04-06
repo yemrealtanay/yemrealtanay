@@ -38,12 +38,12 @@ APIs        WhatsApp Cloud API · Zoom · Meta Graph API
 ### Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yemrealtanay&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3dffc0&icon_color=3dffc0&text_color=8b949e&rank_icon=github" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemrealtanay&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3dffc0&text_color=8b949e&langs_count=6" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yemrealtanay&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3dffc0&icon_color=3dffc0&text_color=8b949e&rank_icon=github" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yemrealtanay&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3dffc0&text_color=8b949e&langs_count=6" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yemrealtanay&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3dffc0&fire=3dffc0&currStreakLabel=3dffc0" height="150" />
+  <img src="https://streak-stats.demolab.com?user=yemrealtanay&theme=dark&hide_border=true&background=0d1117&ring=3dffc0&fire=3dffc0&currStreakLabel=3dffc0" height="150" />
 </p>
 
 ---
