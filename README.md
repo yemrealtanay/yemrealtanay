@@ -1,57 +1,53 @@
-### Hi there 👋
+# Yunus Emre Altanay
 
-- 🔭  I’m currently working at Iceberg Digital as Backend Developer
-- 🌱 I’m currently learning: Go
-- 🌱  Laravel enthusiast 😄 
+Backend engineer. Building integrations, automation pipelines, and open source tools.
 
-### Languages and Tools
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-
-
-### Connect with me:
-
-[<img align="left" alt="yemrealtanay.xyz" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="yemrealtanay | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="yemrealtanay | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="yemrealtanay | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="yemrealtanay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br/>
+Currently at **[Iceberg Digital](https://icebergdigital.co.uk)** — verified Meta Tech Provider.  
+Working on WhatsApp Business, Zoom Phone, and CRM-connected communication infrastructure.
 
 ---
 
+### Open Source
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Laravel, Inertia.js ve Vue2 CRUD İşlemleri](https://medium.com/@y.emrealtanay/laravel-inertia-js-ve-vue2-crud-i%CC%87%C5%9Flemleri-80814631e38)
-- [Vue.js Projesi Rehberi — Bölüm 1](https://medium.com/@y.emrealtanay/vue-js-projesi-rehberi-b%C3%B6l%C3%BCm-1-46ae84934023)
-- [Vue.js Projesi Rehberi — Bölüm 2](https://medium.com/@y.emrealtanay/vue-js-projesi-rehberi-b%C3%B6l%C3%BCm-2-9882f4ec4dff)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://medium.com/@y.emrealtanay)
+**[🔏 llm-hasher](https://github.com/yemrealtanay/llm-hasher)** — Privacy-first PII tokenization middleware for LLM pipelines.  
+Strip sensitive data before it reaches any LLM API. Restore originals after. Local detection, encrypted vault.
 
 ---
 
-[website]: http://yemrealtanay.xyz
-[twitter]: https://twitter.com/yemrealtanay
-[youtube]: https://www.youtube.com/channel/UCWqK-QuvbGh_gZ1XH7tR5pg
-[instagram]: https://instagram.com/yemrealtanay
-[linkedin]: https://www.linkedin.com/in/yemrealtanay
+### Stack
 
+```
+Languages   Go · PHP · C# · JavaScript
+Frameworks  Laravel · Vue.js · Livewire
+Data        PostgreSQL · MongoDB · SQLite · Redis
+Infra       Docker · Linux · GitHub Actions · AWS EC2
+AI / Auto   n8n · Qdrant · Ollama · Anthropic API
+APIs        WhatsApp Cloud API · Zoom · Meta Graph API
+```
 
+---
 
-<!--
-**yemrealtanay/yemrealtanay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Writing
 
-Here are some ideas to get you started:
+- [How I Built a PII Tokenization Middleware to Keep Sensitive Data Out of LLM APIs](https://dev.to/yemrealtanay) — Dev.to
+- [LLM API'lerine Veri Göndermeden Önce PII'yı Nasıl Temizlersiniz](https://medium.com/@y.emrealtanay) — Medium
+- [Laravel, Inertia.js ve Vue2 CRUD İşlemleri](https://medium.com/@y.emrealtanay/laravel-inertia-js-ve-vue2-crud-i%CC%87%C5%9Flemleri-80814631e38) — Medium
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yemrealtanay&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3dffc0&icon_color=3dffc0&text_color=8b949e&rank_icon=github" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemrealtanay&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3dffc0&text_color=8b949e&langs_count=6" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yemrealtanay&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3dffc0&fire=3dffc0&currStreakLabel=3dffc0" height="150" />
+</p>
+
+---
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/yemrealtanay) · [Medium](https://medium.com/@y.emrealtanay) · [X](https://twitter.com/yemrealtanay)
